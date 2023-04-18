@@ -1,1 +1,1 @@
-# Triangulodasbermudas
+# Triangulodasbermudasemclasse
