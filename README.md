@@ -1,4 +1,4 @@
-# Projetos Ewerson Neias Alves
+# Projeto Triangulo Classe
 ## Versão: 1.0 (1 semestre) Jogos Digitais 🕹️
 ## Status do Projeto: ✔️ Concluído ⚠️ Espera ❌ Cancelado
 
