@@ -1,5 +1,5 @@
-# Titulo ou Arte do Projeto
-## Versão: 1.0 
+# Projetos Ewerson Neias
+## Versão: 1.0 (1 semestre) 
 ## Status do Projeto: ✔️ Concluído ⚠️ Espera ❌ Cancelado
 
 ## Tópicos
