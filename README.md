@@ -1,5 +1,5 @@
-# Projetos Ewerson Neias
-## Versão: 1.0 (1 semestre) 
+# Projetos Ewerson Neias Alves
+## Versão: 1.0 (1 semestre) Jogos Digitais 🕹️
 ## Status do Projeto: ✔️ Concluído ⚠️ Espera ❌ Cancelado
 
 ## Tópicos
